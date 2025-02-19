@@ -1,7 +1,7 @@
 # sudoku
 noob try
 
-##I will be following Backtracking Algorithm to solve this problem.
+# I will be following Backtracking Algorithm to solve this problem.
 
 The algorithm works something like this:
 1. Pick empty box.
